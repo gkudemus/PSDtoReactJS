@@ -1,0 +1,1297 @@
+@media only screen and (max-width: 1600px){
+  .container-footer{
+    max-width: 100%;
+    margin: 0;
+    height: auto;
+    float:left;
+    background-color: #E7ECEF;
+  }
+  
+  .img-footer{
+    max-width: 100%;
+    height: auto;
+  }
+  
+  .links-section {
+    margin-top: -5px;
+  }
+  
+  .follow-bank {
+    float: left;
+    padding-left: 20%;
+    padding-right: 70px;
+  }
+  
+  .link-social-media {
+    overflow: hidden;
+    padding-left: 60px;
+    padding-top: 20px;
+  }
+  
+  .bankcode-details {
+    overflow: hidden;
+    font-size: 12px;
+  }
+  
+  .img-bank-follow-FB {
+    float: left;
+    margin-right: 30px;
+    max-width: 100%;
+    height: auto;
+  }
+  
+  .img-bank-follow-TW {
+    float: left;
+    margin-right: 30px;
+    max-width: 100%;
+    height: auto;
+  }
+  
+  .img-bank-follow-LI {
+    float: left;
+    margin-right: 30px;
+    max-width: 100%;
+    height: auto;
+  }
+  
+  .img-bank-follow-YT {
+    float: left;
+    max-width: 100%;
+    height: auto;
+  }
+  
+  .follow-me-details {
+    float: left;
+    width: 480px;
+    border-left-style: solid;
+    border-left-color: #BDC2C5;
+    border-left-width: 3px;
+  }
+  
+  .follow-me {
+    float: left;
+  }
+  
+  .contact-details {
+    overflow: hidden;
+    max-width: 100%;
+  }
+  
+  .agent-contact-me {
+    text-align: center;
+    padding-left: 68px;
+    padding-bottom: 20px;
+    margin: 0 !important;
+  }
+  
+  .follow-bank-header{
+    text-align: center;
+    margin-left: 10%;
+    margin: 0 !important;
+  }
+  
+  .img-agent-portrait {
+    padding-right: 30px;
+    padding-left: 50px; 
+  }
+  
+  .agent-name {
+    font-size: 12px;
+    font-weight: 600;
+    text-align: justify;
+    margin: 0 !important;
+  }
+  
+  .agent-domain {
+    font-size: 12px;
+    font-weight: 600;
+    text-align: justify;
+    margin: 0 !important;
+  }
+  
+  .agent-email {
+    font-size: 12px;
+    font-weight: 600;
+    text-align: justify;
+    margin: 0 !important;
+  }
+  
+  .agent-phone {
+    font-size: 12px;
+    font-weight: 600;
+    text-align: justify;
+    margin: 0 !important;
+  }
+  
+  .quick-link-agent {
+    overflow: hidden;
+    margin-top: 10px;
+    width: 250px;
+  }
+  
+  .img-agent-follow-FB {
+    float: left;
+    margin-right: 30px;
+    max-width: 100%;
+    height: auto;
+  }
+  
+  .img-agent-follow-TW {
+    float: left;
+    margin-right: 30px;
+    max-width: 100%;
+    height: auto;
+  }
+  
+  .img-agent-follow-LI {
+    float: left;
+    margin-right: 30px;
+    max-width: 100%;
+    height: auto;
+  }
+  
+  .img-agent-follow-IG {
+    float: left;
+    max-width: 100%;
+    height: auto;
+  }
+
+  .container-terms {
+    background-color: #33333B;
+    margin-top: -5px;
+  }
+
+  .terms {
+    text-align: center;
+    font-size: 12px;
+    color: white;
+    margin: 0 !important;
+    padding: 15px;
+  }
+}
+
+@media only screen and (max-width: 1450px){
+  .container-footer{
+    max-width: 100%;
+    margin: 0;
+    height: auto;
+    float:left;
+    background-color: #E7ECEF;
+  }
+  
+  .img-footer{
+    max-width: 100%;
+    height: auto;
+  }
+  
+  .links-section {
+    margin-top: -5px;
+  }
+  
+  .follow-bank {
+    float: left;
+    padding-left: 18%;
+    padding-right: 40px;
+  }
+  
+  .link-social-media {
+    overflow: hidden;
+    padding-left: 60px;
+    padding-top: 20px;
+  }
+  
+  .bankcode-details {
+    overflow: hidden;
+    font-size: 12px;
+  }
+  
+  .img-bank-follow-FB {
+    float: left;
+    margin-right: 30px;
+    max-width: 100%;
+    height: auto;
+  }
+  
+  .img-bank-follow-TW {
+    float: left;
+    margin-right: 30px;
+    max-width: 100%;
+    height: auto;
+  }
+  
+  .img-bank-follow-LI {
+    float: left;
+    margin-right: 30px;
+    max-width: 100%;
+    height: auto;
+  }
+  
+  .img-bank-follow-YT {
+    float: left;
+    max-width: 100%;
+    height: auto;
+  }
+  
+  .follow-me-details {
+    float: left;
+    width: 480px;
+  }
+  
+  .follow-me {
+    float: left;
+  }
+  
+  .contact-details {
+    overflow: hidden;
+    max-width: 100%;
+  }
+  
+  .agent-contact-me {
+    text-align: center;
+    padding-left: 68px;
+    padding-bottom: 20px;
+    margin: 0 !important;
+  }
+  
+  .follow-bank-header{
+    text-align: center;
+    margin-left: 10%;
+    margin: 0 !important;
+  }
+  
+  .img-agent-portrait {
+    padding-right: 30px;
+    padding-left: 50px;
+  }
+  
+  .agent-name {
+    font-size: 12px;
+    font-weight: 600;
+    text-align: justify;
+    margin: 0 !important;
+  }
+  
+  .agent-domain {
+    font-size: 12px;
+    font-weight: 600;
+    text-align: justify;
+    margin: 0 !important;
+  }
+  
+  .agent-email {
+    font-size: 12px;
+    font-weight: 600;
+    text-align: justify;
+    margin: 0 !important;
+  }
+  
+  .agent-phone {
+    font-size: 12px;
+    font-weight: 600;
+    text-align: justify;
+    margin: 0 !important;
+  }
+  
+  .quick-link-agent {
+    overflow: hidden;
+    margin-top: 10px;
+    width: 250px;
+  }
+  
+  .img-agent-follow-FB {
+    float: left;
+    margin-right: 30px;
+    max-width: 100%;
+    height: auto;
+  }
+  
+  .img-agent-follow-TW {
+    float: left;
+    margin-right: 30px;
+    max-width: 100%;
+    height: auto;
+  }
+  
+  .img-agent-follow-LI {
+    float: left;
+    margin-right: 30px;
+    max-width: 100%;
+    height: auto;
+  }
+  
+  .img-agent-follow-IG {
+    float: left;
+    max-width: 100%;
+    height: auto;
+  }
+}
+
+@media only screen and (max-width: 1100px){
+  .container-footer{
+    max-width: 100%;
+    margin: 0;
+    height: auto;
+    float:left;
+    background-color: #E7ECEF;
+  }
+  
+  .img-footer{
+    max-width: 100%;
+    height: auto;
+  }
+  
+  .links-section {
+    margin-top: -5px;
+  }
+  
+  .follow-bank {
+    float: left;
+    padding-left: 12%;
+    padding-right: 40px;
+  }
+  
+  .link-social-media {
+    overflow: hidden;
+    padding-left: 60px;
+    padding-top: 20px;
+  }
+  
+  .bankcode-details {
+    overflow: hidden;
+    font-size: 12px;
+  }
+  
+  .img-bank-follow-FB {
+    float: left;
+    margin-right: 30px;
+    max-width: 100%;
+    height: auto;
+  }
+  
+  .img-bank-follow-TW {
+    float: left;
+    margin-right: 30px;
+    max-width: 100%;
+    height: auto;
+  }
+  
+  .img-bank-follow-LI {
+    float: left;
+    margin-right: 30px;
+    max-width: 100%;
+    height: auto;
+  }
+  
+  .img-bank-follow-YT {
+    float: left;
+    max-width: 100%;
+    height: auto;
+  }
+  
+  .follow-me-details {
+    float: left;
+    width: 380px;
+  }
+  
+  .follow-me {
+    float: left;
+  }
+  
+  .contact-details {
+    overflow: hidden;
+    max-width: 100%;
+  }
+  
+  .agent-contact-me {
+    text-align: center;
+    padding-left: 68px;
+    padding-bottom: 20px;
+    margin: 0 !important;
+  }
+  
+  .follow-bank-header{
+    text-align: center;
+    margin-left: 10%;
+    margin: 0 !important;
+  }
+  
+  .img-agent-portrait {
+    padding-right: 30px;
+    padding-left: 50px; 
+  }
+  
+  .agent-name {
+    font-size: 10px;
+    font-weight: 600;
+    text-align: justify;
+    margin: 0 !important;
+  }
+  
+  .agent-domain {
+    font-size: 10px;
+    font-weight: 600;
+    text-align: justify;
+    margin: 0 !important;
+  }
+  
+  .agent-email {
+    font-size: 10px;
+    font-weight: 600;
+    text-align: justify;
+    margin: 0 !important;
+  }
+  
+  .agent-phone {
+    font-size: 10px;
+    font-weight: 600;
+    text-align: justify;
+    margin: 0 !important;
+  }
+  
+  .quick-link-agent {
+    overflow: hidden;
+    margin-top: 10px;
+    width: 180px;
+  }
+  
+  .img-agent-follow-FB {
+    float: left;
+    margin-right: 10px;
+    max-width: 80%;
+    height: auto;
+  }
+  
+  .img-agent-follow-TW {
+    float: left;
+    margin-right: 10px;
+    max-width: 80%;
+    height: auto;
+  }
+  
+  .img-agent-follow-LI {
+    float: left;
+    margin-right: 10px;
+    max-width: 80%;
+    height: auto;
+  }
+  
+  .img-agent-follow-IG {
+    float: left;
+    max-width: 80%;
+    height: auto;
+  }
+}
+
+@media only screen and (max-width: 900px){
+  .container-footer{
+    max-width: 100%;
+    margin: 0;
+    height: auto;
+    float:left;
+    background-color: #E7ECEF;
+  }
+  
+  .img-footer{
+    max-width: 100%;
+    height: auto;
+  }
+  
+  .links-section {
+    margin-top: -5px;
+  }
+  
+  .follow-bank {
+    overflow: hidden;
+    margin-left: 16%;
+  }
+  
+  .link-social-media {
+    overflow: hidden;
+    padding-left: 60px;
+    padding-top: 20px;
+  }
+  
+  .bankcode-details {
+    overflow: hidden;
+    font-size: 12px;
+    margin-bottom: 20px;
+  }
+  
+  .img-bank-follow-FB {
+    float: left;
+    margin-right: 30px;
+    max-width: 100%;
+    height: auto;
+  }
+  
+  .img-bank-follow-TW {
+    float: left;
+    margin-right: 30px;
+    max-width: 100%;
+    height: auto;
+  }
+  
+  .img-bank-follow-LI {
+    float: left;
+    margin-right: 30px;
+    max-width: 100%;
+    height: auto;
+  }
+  
+  .img-bank-follow-YT {
+    float: left;
+    max-width: 100%;
+    height: auto;
+  }
+  
+  .follow-me-details {
+    overflow: hidden;
+    margin-left: 22%;
+    width: 380px;
+    border-left-style: none;
+  }
+  
+  .follow-me {
+    float: left;
+  }
+  
+  .contact-details {
+    overflow: hidden;
+    max-width: 100%;
+  }
+  
+  .agent-contact-me {
+    text-align: center;
+    padding-left: 68px;
+    padding-bottom: 20px;
+    margin: 0 !important;
+  }
+  
+  .follow-bank-header{
+    text-align: center;
+    margin-left: 10%;
+    margin: 0 !important;
+  }
+  
+  .img-agent-portrait {
+    padding-right: 30px;
+    padding-left: 50px; 
+  }
+  
+  .agent-name {
+    font-size: 10px;
+    font-weight: 600;
+    text-align: justify;
+    margin: 0 !important;
+  }
+  
+  .agent-domain {
+    font-size: 10px;
+    font-weight: 600;
+    text-align: justify;
+    margin: 0 !important;
+  }
+  
+  .agent-email {
+    font-size: 10px;
+    font-weight: 600;
+    text-align: justify;
+    margin: 0 !important;
+  }
+  
+  .agent-phone {
+    font-size: 10px;
+    font-weight: 600;
+    text-align: justify;
+    margin: 0 !important;
+  }
+  
+  .quick-link-agent {
+    overflow: hidden;
+    margin-top: 10px;
+    width: 180px;
+  }
+  
+  .img-agent-follow-FB {
+    float: left;
+    margin-right: 10px;
+    max-width: 80%;
+    height: auto;
+  }
+  
+  .img-agent-follow-TW {
+    float: left;
+    margin-right: 10px;
+    max-width: 80%;
+    height: auto;
+  }
+  
+  .img-agent-follow-LI {
+    float: left;
+    margin-right: 10px;
+    max-width: 80%;
+    height: auto;
+  }
+  
+  .img-agent-follow-IG {
+    float: left;
+    max-width: 80%;
+    height: auto;
+  }
+}
+
+@media only screen and (max-width: 700px){
+  .container-footer{
+    max-width: 100%;
+    margin: 0;
+    height: auto;
+    float:left;
+    background-color: #E7ECEF;
+  }
+  
+  .img-footer{
+    max-width: 100%;
+    height: auto;
+  }
+  
+  .links-section {
+    margin-top: -5px;
+  }
+  
+  .follow-bank {
+    overflow: hidden;
+    margin-left: 13%;
+    padding-bottom: 20px;
+  }
+  
+  .link-social-media {
+    overflow: hidden;
+    padding-left: 60px;
+    padding-top: 20px;
+  }
+  
+  .bankcode-details {
+    overflow: hidden;
+    font-size: 12px;
+  }
+  
+  .img-bank-follow-FB {
+    float: left;
+    margin-right: 30px;
+    max-width: 100%;
+    height: auto;
+  }
+  
+  .img-bank-follow-TW {
+    float: left;
+    margin-right: 30px;
+    max-width: 100%;
+    height: auto;
+  }
+  
+  .img-bank-follow-LI {
+    float: left;
+    margin-right: 30px;
+    max-width: 100%;
+    height: auto;
+  }
+  
+  .img-bank-follow-YT {
+    float: left;
+    max-width: 100%;
+    height: auto;
+  }
+  
+  .follow-me-details {
+    overflow: hidden;
+    margin-left: 15%;
+    width: 380px;
+  }
+  
+  .follow-me {
+    float: left;
+  }
+  
+  .contact-details {
+    overflow: hidden;
+    max-width: 100%;
+  }
+  
+  .agent-contact-me {
+    text-align: center;
+    padding-left: 68px;
+    padding-bottom: 20px;
+    margin: 0 !important;
+  }
+  
+  .follow-bank-header{
+    text-align: center;
+    margin-left: 10%;
+    margin: 0 !important;
+  }
+  
+  .img-agent-portrait {
+    padding-right: 30px;
+    padding-left: 50px; 
+  }
+  
+  .agent-name {
+    font-size: 10px;
+    font-weight: 600;
+    text-align: justify;
+    margin: 0 !important;
+  }
+  
+  .agent-domain {
+    font-size: 10px;
+    font-weight: 600;
+    text-align: justify;
+    margin: 0 !important;
+  }
+  
+  .agent-email {
+    font-size: 10px;
+    font-weight: 600;
+    text-align: justify;
+    margin: 0 !important;
+  }
+  
+  .agent-phone {
+    font-size: 10px;
+    font-weight: 600;
+    text-align: justify;
+    margin: 0 !important;
+  }
+  
+  .quick-link-agent {
+    overflow: hidden;
+    margin-top: 10px;
+    width: 180px;
+  }
+  
+  .img-agent-follow-FB {
+    float: left;
+    margin-right: 10px;
+    max-width: 80%;
+    height: auto;
+  }
+  
+  .img-agent-follow-TW {
+    float: left;
+    margin-right: 10px;
+    max-width: 80%;
+    height: auto;
+  }
+  
+  .img-agent-follow-LI {
+    float: left;
+    margin-right: 10px;
+    max-width: 80%;
+    height: auto;
+  }
+  
+  .img-agent-follow-IG {
+    float: left;
+    max-width: 80%;
+    height: auto;
+  }
+}
+
+@media only screen and (max-width: 580px){
+  .container-footer{
+    max-width: 100%;
+    margin: 0;
+    height: auto;
+    float:left;
+    background-color: #E7ECEF;
+  }
+
+  .terms {
+    text-align: center;
+    font-size: 9px;
+    color: white;
+    margin: 0 !important;
+    padding: 15px;
+  }
+  
+  .img-footer{
+    max-width: 100%;
+    height: auto;
+  }
+  
+  .links-section {
+    margin-top: -5px;
+  }
+  
+  .follow-bank {
+    overflow: hidden;
+    margin-left: 10%;
+    padding-bottom: 20px;
+  }
+  
+  .link-social-media {
+    overflow: hidden;
+    padding-left: 40px;
+    padding-top: 20px;
+  }
+  
+  .bankcode-details {
+    overflow: hidden;
+    font-size: 11px;
+  }
+  
+  .img-bank-follow-FB {
+    float: left;
+    margin-right: 30px;
+    max-width: 100%;
+    height: auto;
+  }
+  
+  .img-bank-follow-TW {
+    float: left;
+    margin-right: 30px;
+    max-width: 100%;
+    height: auto;
+  }
+  
+  .img-bank-follow-LI {
+    float: left;
+    margin-right: 30px;
+    max-width: 100%;
+    height: auto;
+  }
+  
+  .img-bank-follow-YT {
+    float: left;
+    max-width: 100%;
+    height: auto;
+  }
+  
+  .follow-me-details {
+    overflow: hidden;
+    margin-left: 10%;
+    width: 380px;
+  }
+  
+  .follow-me {
+    float: left;
+  }
+  
+  .contact-details {
+    overflow: hidden;
+    max-width: 100%;
+  }
+  
+  .agent-contact-me {
+    text-align: center;
+    padding-left: 68px;
+    padding-bottom: 20px;
+    margin: 0 !important;
+  }
+  
+  .follow-bank-header{
+    text-align: center;
+    margin-left: 10%;
+    margin: 0 !important;
+  }
+  
+  .img-agent-portrait {
+    padding-right: 30px;
+    padding-left: 50px; 
+  }
+  
+  .agent-name {
+    font-size: 10px;
+    font-weight: 600;
+    text-align: justify;
+    margin: 0 !important;
+  }
+  
+  .agent-domain {
+    font-size: 10px;
+    font-weight: 600;
+    text-align: justify;
+    margin: 0 !important;
+  }
+  
+  .agent-email {
+    font-size: 10px;
+    font-weight: 600;
+    text-align: justify;
+    margin: 0 !important;
+  }
+  
+  .agent-phone {
+    font-size: 10px;
+    font-weight: 600;
+    text-align: justify;
+    margin: 0 !important;
+  }
+  
+  .quick-link-agent {
+    overflow: hidden;
+    margin-top: 10px;
+    width: 180px;
+  }
+  
+  .img-agent-follow-FB {
+    float: left;
+    margin-right: 10px;
+    max-width: 80%;
+    height: auto;
+  }
+  
+  .img-agent-follow-TW {
+    float: left;
+    margin-right: 10px;
+    max-width: 80%;
+    height: auto;
+  }
+  
+  .img-agent-follow-LI {
+    float: left;
+    margin-right: 10px;
+    max-width: 80%;
+    height: auto;
+  }
+  
+  .img-agent-follow-IG {
+    float: left;
+    max-width: 80%;
+    height: auto;
+  }
+}
+
+@media only screen and (max-width: 420px){
+  .container-footer{
+    max-width: 100%;
+    margin: 0;
+    height: auto;
+    float:left;
+    background-color: #E7ECEF;
+  }
+
+  .terms {
+    text-align: center;
+    font-size: 9px;
+    color: white;
+    margin: 0 !important;
+    padding: 15px;
+  }
+  
+  .img-footer{
+    max-width: 100%;
+    height: auto;
+  }
+  
+  .links-section {
+    margin-top: -5px;
+  }
+  
+  .follow-bank {
+    overflow: hidden;
+    margin-left: 8%;
+    padding-bottom: 20px;
+  }
+  
+  .link-social-media {
+    overflow: hidden;
+    padding-left: 20px;
+    padding-top: 20px;
+  }
+  
+  .bankcode-details {
+    overflow: hidden;
+    font-size: 8px;
+  }
+  
+  .img-bank-follow-FB {
+    float: left;
+    margin-right: 20px;
+    max-width: 100%;
+    height: auto;
+  }
+  
+  .img-bank-follow-TW {
+    float: left;
+    margin-right: 20px;
+    max-width: 100%;
+    height: auto;
+  }
+  
+  .img-bank-follow-LI {
+    float: left;
+    margin-right: 20px;
+    max-width: 100%;
+    height: auto;
+  }
+  
+  .img-bank-follow-YT {
+    float: left;
+    max-width: 100%;
+    height: auto;
+  }
+
+  .follow-me-details {
+    overflow: hidden;
+    margin-left: 20px;
+    width: 380px;
+    border-top-style: solid;
+    border-top-color: #BDC2C5;
+    border-top-width: 3px;
+  }
+  
+  .follow-me {
+    float: left;
+  }
+  
+  .contact-details {
+    overflow: hidden;
+    max-width: 100%;
+  }
+  
+  .agent-contact-me {
+    max-width: 100%;
+    padding-bottom: 20px;
+  }
+  
+  .follow-bank-header{
+    text-align: center;
+    margin-left: 10%;
+    margin: 0 !important;
+  }
+  
+  .img-agent-portrait {
+    padding-right: 10px;
+    margin-left: -18px;
+  }
+  
+  .agent-name {
+    font-size: 10px;
+    font-weight: 600;
+    text-align: justify;
+    margin: 0 !important;
+  }
+  
+  .agent-domain {
+    font-size: 10px;
+    font-weight: 600;
+    text-align: justify;
+    margin: 0 !important;
+  }
+  
+  .agent-email {
+    font-size: 10px;
+    font-weight: 600;
+    text-align: justify;
+    margin: 0 !important;
+  }
+  
+  .agent-phone {
+    font-size: 10px;
+    font-weight: 600;
+    text-align: justify;
+    margin: 0 !important;
+  }
+  
+  .quick-link-agent {
+    overflow: hidden;
+    margin-top: 10px;
+    width: 180px;
+  }
+  
+  .img-agent-follow-FB {
+    float: left;
+    margin-right: 10px;
+    max-width: 80%;
+    height: auto;
+  }
+  
+  .img-agent-follow-TW {
+    float: left;
+    margin-right: 10px;
+    max-width: 80%;
+    height: auto;
+  }
+  
+  .img-agent-follow-LI {
+    float: left;
+    margin-right: 10px;
+    max-width: 80%;
+    height: auto;
+  }
+  
+  .img-agent-follow-IG {
+    float: left;
+    max-width: 80%;
+    height: auto;
+  }
+  
+}
+
+@media only screen and (max-width: 380px){
+  .container-footer{
+    max-width: 100%;
+    margin: 0;
+    height: auto;
+    float:left;
+    background-color: #E7ECEF;
+  }
+
+  .terms {
+    text-align: center;
+    font-size: 9px;
+    color: white;
+    margin: 0 !important;
+    padding: 15px;
+  }
+  
+  .img-footer{
+    max-width: 100%;
+    height: auto;
+  }
+  
+  .links-section {
+    margin-top: -5px;
+  }
+  
+  .follow-bank {
+    overflow: hidden;
+    margin-left: 8%;
+    padding-bottom: 20px;
+  }
+  
+  .link-social-media {
+    overflow: hidden;
+    padding-left: 20px;
+    padding-top: 20px;
+  }
+  
+  .bankcode-details {
+    overflow: hidden;
+    font-size: 8px;
+  }
+  
+  .img-bank-follow-FB {
+    float: left;
+    margin-right: 20px;
+    max-width: 100%;
+    height: auto;
+  }
+  
+  .img-bank-follow-TW {
+    float: left;
+    margin-right: 20px;
+    max-width: 100%;
+    height: auto;
+  }
+  
+  .img-bank-follow-LI {
+    float: left;
+    margin-right: 20px;
+    max-width: 100%;
+    height: auto;
+  }
+  
+  .img-bank-follow-YT {
+    float: left;
+    max-width: 100%;
+    height: auto;
+  }
+
+  .follow-me-details {
+    overflow: hidden;
+    margin-left: 10px;
+    width: 340px;
+    border-top-style: solid;
+    border-top-color: #BDC2C5;
+    border-top-width: 3px;
+  }
+  
+  .follow-me {
+    float: left;
+  }
+  
+  .contact-details {
+    overflow: hidden;
+    max-width: 100%;
+  }
+  
+  .agent-contact-me {
+    max-width: 100%;
+    padding-bottom: 20px;
+  }
+  
+  .follow-bank-header{
+    text-align: center;
+    margin-left: 10%;
+    margin: 0 !important;
+  }
+  
+  .img-agent-portrait {
+    padding-right: 10px;
+    margin-left: -18px;
+  }
+  
+  .agent-name {
+    font-size: 10px;
+    font-weight: 600;
+    text-align: justify;
+    margin: 0 !important;
+  }
+  
+  .agent-domain {
+    font-size: 10px;
+    font-weight: 600;
+    text-align: justify;
+    margin: 0 !important;
+  }
+  
+  .agent-email {
+    font-size: 10px;
+    font-weight: 600;
+    text-align: justify;
+    margin: 0 !important;
+  }
+  
+  .agent-phone {
+    font-size: 10px;
+    font-weight: 600;
+    text-align: justify;
+    margin: 0 !important;
+  }
+  
+  .quick-link-agent {
+    overflow: hidden;
+    margin-top: 10px;
+    width: 180px;
+  }
+  
+  .img-agent-follow-FB {
+    float: left;
+    margin-right: 10px;
+    max-width: 80%;
+    height: auto;
+  }
+  
+  .img-agent-follow-TW {
+    float: left;
+    margin-right: 10px;
+    max-width: 80%;
+    height: auto;
+  }
+  
+  .img-agent-follow-LI {
+    float: left;
+    margin-right: 10px;
+    max-width: 80%;
+    height: auto;
+  }
+  
+  .img-agent-follow-IG {
+    float: left;
+    max-width: 80%;
+    height: auto;
+  }
+  
+}

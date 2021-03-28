@@ -1,0 +1,610 @@
+@media only screen and (max-width: 1600px){
+  .container-content-parent {
+    background-color: #F5F6FA;
+  }
+  
+  .container-content-left {
+    max-width: 50%;
+    margin: 0;
+    height: auto;
+    float:left; 
+    text-align: justify;
+    background-color: #F5F6FA;
+  }
+  
+  .content-left {
+    float: right;
+    max-width: 65%;
+    margin: 50px;
+  }
+  
+  .container-content-right {
+    max-width: 50%;
+    margin: 0;
+    height: auto;
+    float: left;
+    text-align: center;
+    background-color: #F5F6FA;
+  }
+  
+  .content-right {
+    float: left;
+    margin: 50px;
+    max-width: 65%; 
+    height: auto; 
+  } 
+   
+  .img-bank-code { 
+    max-width: 320px;
+    height: auto;
+    padding-bottom: 10px;
+  }
+  
+  .img-register {
+    width: 315px;
+    height: auto;
+    cursor: pointer;
+    margin: 10px;
+    border: 0px solid #ffffff;
+    size: 30px;
+  }
+  
+  .img-register:hover {
+    border-color: #66afe9;
+    box-shadow: 0 0 8px rgba(0,255,0, 0.6);
+  }
+  
+  .heading-title {
+    font-weight: bolder;
+    padding-bottom: 10px;
+    text-align: justify;
+  }
+  
+  .paragraph-one {
+    font-size: 15px;
+    font-weight: 600;
+    text-align: justify;
+  }
+  
+  .paragraph-two {
+    font-size: 15px;
+    font-weight: 600;
+    text-align: justify;
+  }
+  
+  .paragraph-three {
+    font-size: 14px;
+    font-weight: 500;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+  }
+}
+
+@media only screen and (max-width: 992px){
+  .container-content-parent {
+    background-color: #F5F6FA;
+  }
+  
+  .container-content-left {
+    max-width: 50%;
+    margin: 0;
+    height: auto;
+    float:left; 
+    text-align: justify;
+    background-color: #F5F6FA;
+  }
+  
+  .content-left {
+    float: right;
+    max-width: 65%;
+    margin: 50px;
+  }
+  
+  .container-content-right {
+    max-width: 50%;
+    margin: 0;
+    height: auto;
+    float: left;
+    text-align: center;
+    background-color: #F5F6FA;
+  }
+  
+  .content-right {
+    float: left;
+    margin: 50px;
+    max-width: 65%; 
+    height: auto; 
+  } 
+   
+  .img-bank-code { 
+    width: 280px;
+    height: auto;
+    padding-bottom: 10px;
+  }
+  
+  .img-register {
+    width: 280px;
+    height: auto;
+    cursor: pointer;
+    margin: 10px;
+    border: 0px solid #ffffff;
+    size: 30px;
+  }
+  
+  .img-register:hover {
+    border-color: #66afe9;
+    box-shadow: 0 0 8px rgba(0,255,0, 0.6);
+  }
+  
+  .heading-title {
+    font-weight: bolder;
+    padding-bottom: 10px;
+    text-align: left;
+  }
+  
+  .paragraph-one {
+    font-size: 15px;
+    font-weight: 600;
+    text-align: left;
+  }
+  
+  .paragraph-two {
+    font-size: 15px;
+    font-weight: 600;
+    text-align: left;
+  }
+
+  .paragraph-three {
+    font-size: 11px;
+    font-weight: 500;
+    margin: 0;
+    padding: 0;
+    text-align: left;
+    margin-left: 20px;
+  }
+}
+
+@media only screen and (max-width: 768px){
+  .container-content-parent {
+    background-color: #F5F6FA;
+  }
+  
+  .container-content-left {
+    max-width: 50%;
+    margin: 0;
+    height: auto;
+    float:left; 
+    text-align: justify;
+    background-color: #F5F6FA;
+  }
+  
+  .content-left {
+    float: right;
+    max-width: 65%;
+    margin: 50px;
+  }
+  
+  .container-content-right {
+    max-width: 50%;
+    margin: 0;
+    height: auto;
+    float: left;
+    text-align: center;
+    background-color: #F5F6FA;
+  }
+  
+  .content-right {
+    float: left;
+    margin: 50px;
+    max-width: 50%; 
+    height: auto; 
+  } 
+   
+  .img-bank-code { 
+    width: 200px;
+    height: auto;
+    padding-bottom: 10px;
+  }
+  
+  .img-register {
+    width: 200px;
+    height: auto;
+    cursor: pointer;
+    margin: 10px;
+    border: 0px solid #ffffff;
+    size: 30px;
+  }
+  
+  .img-register:hover {
+    border-color: #66afe9;
+    box-shadow: 0 0 8px rgba(0,255,0, 0.6);
+  }
+  
+  .heading-title {
+    font-weight: bolder;
+    padding-bottom: 10px;
+    text-align: left;
+  }
+  
+  .paragraph-one {
+    font-size: 12px;
+    font-weight: 600;
+    text-align: left;
+  }
+  
+  .paragraph-two {
+    font-size: 12px;
+    font-weight: 600;
+    text-align: left;
+  }
+  
+  .paragraph-three {
+    font-size: 10px;
+    font-weight: 500;
+    margin: 0;
+    padding: 0;
+    text-align: justify;
+    margin-left: 10px;
+  }
+}
+
+@media only screen and (max-width: 640px){
+  .container-content-parent {
+    background-color: #F5F6FA;
+  }
+  
+  .container-content-left {
+    max-width: 48%;
+    height: auto;
+    float:left; 
+    text-align: justify;
+    background-color: #F5F6FA;
+  }
+  
+  .content-left {
+    float: right;
+  }
+  
+  .container-content-right {
+    max-width: 50%;
+    margin: 0;
+    height: auto;
+    float: left;
+    text-align: center;
+    background-color: #F5F6FA;
+  }
+  
+  .content-right {
+    float: left;
+    margin: 50px;
+    max-width: 50%; 
+    height: auto; 
+  } 
+   
+  .img-bank-code { 
+    width: 170px;
+    height: auto;
+    padding-bottom: 10px;
+  }
+  
+  .img-register {
+    width: 170px;
+    height: auto;
+    cursor: pointer;
+    margin: 10px;
+    border: 0px solid #ffffff;
+    size: 30px;
+  }
+  
+  .img-register:hover {
+    border-color: #66afe9;
+    box-shadow: 0 0 8px rgba(0,255,0, 0.6);
+  }
+  
+  .heading-title {
+    font-size: 17px;
+    font-weight: bolder;
+    padding-bottom: 10px;
+    text-align: left;
+  }
+  
+  .paragraph-one {
+    font-size: 12px;
+    font-weight: 600;
+    text-align: left;
+  }
+  
+  .paragraph-two {
+    font-size: 12px;
+    font-weight: 600;
+    text-align: left;
+  }
+  
+  .paragraph-three {
+    font-size: 9px;
+    font-weight: 500;
+    margin: 0;
+    padding: 0;
+    text-align: justify;
+    margin-left: 15px;
+  }
+}
+
+@media only screen and (max-width: 450px){
+  .container-content-parent {
+    background-color: #F5F6FA;
+  }
+  
+  .container-content-left {
+    background-color: #F5F6FA;
+    max-width: 100%;
+    clear: both;
+  }
+  
+  .content-left {
+    float:left;
+    margin-left: 23%;
+  }
+  
+  .container-content-right {
+    background-color: #F5F6FA;
+    max-width: 100%;
+    clear: both;
+    margin-top: -60px;
+  }
+  
+  .content-right {
+    float: left;
+    margin-left: 25%;
+  } 
+   
+  .img-bank-code { 
+    width: 170px;
+    height: auto;
+    padding-bottom: 10px;
+  }
+  
+  .img-register {
+    width: 190px;
+    height: auto;
+    cursor: pointer;
+    margin: 10px;
+    border: 0px solid #ffffff;
+    size: 30px;
+  }
+  
+  .img-register:hover {
+    border-color: #66afe9;
+    box-shadow: 0 0 8px rgba(0,255,0, 0.6);
+  }
+  
+  .heading-title {
+    font-size: 17px;
+    font-weight: bolder;
+    padding-bottom: 10px;
+    text-align: center;
+  }
+  
+  .paragraph-one {
+    font-size: 10px;
+    font-weight: 600;
+    text-align:  center;
+  }
+  
+  .paragraph-two {
+    font-size: 10px;
+    font-weight: 600;
+    text-align: center;
+  }
+  
+  .paragraph-three {
+    font-size: 9px;
+    font-weight: 500;
+    margin: 0;
+    padding: 0;
+    text-align: justify;
+    margin-left: 15px;
+  }
+}
+
+@media only screen and (max-width: 400px){
+  .container-content-parent {
+    background-color: #F5F6FA;
+  }
+  
+  .container-content-left {
+    background-color: #F5F6FA;
+    max-width: 100%;
+    clear: both;
+  }
+  
+  .content-left {
+    float:left;
+    margin-left: 15%;
+  }
+  
+  .container-content-right {
+    background-color: #F5F6FA;
+    max-width: 100%;
+    clear: both;
+    margin-top: -55px;
+  }
+  
+  .content-right {
+    float: left;
+    margin-left: 20%;
+  } 
+   
+  .img-bank-code { 
+    width: 170px;
+    height: auto;
+    padding-bottom: 10px;
+  }
+  
+  .img-register {
+    width: 190px;
+    height: auto;
+    cursor: pointer;
+    margin: 10px;
+    border: 0px solid #ffffff;
+    size: 30px;
+  }
+  
+  .img-register:hover {
+    border-color: #66afe9;
+    box-shadow: 0 0 8px rgba(0,255,0, 0.6);
+  }
+  
+  .heading-title {
+    font-size: 17px;
+    font-weight: bolder;
+    padding-bottom: 10px;
+    text-align: center;
+  }
+  
+  .paragraph-one {
+    font-size: 10px;
+    font-weight: 600;
+    text-align:  center;
+  }
+  
+  .paragraph-two {
+    font-size: 10px;
+    font-weight: 600;
+    text-align: center;
+  }
+  
+  .paragraph-three {
+    font-size: 9px;
+    font-weight: 500;
+    margin: 0;
+    padding: 0;
+    text-align: justify;
+    margin-left: 15px;
+  }
+}
+
+.modal-overlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  z-index: 1040;
+  width: 100vw;
+  height: 100vh;
+  background-color: #000;
+  opacity: .5;
+}
+
+.modal-wrapper {
+  position: fixed;
+  top: 0;
+  left: 0;
+  z-index: 1050;
+  width: 100%;
+  height: 100%;
+  overflow-x: hidden;
+  overflow-y: auto;
+  outline: 0;
+}
+
+.modal {
+  z-index: 100;
+  background: white;
+  position: relative;
+  margin: 1.75rem auto;
+  border-radius: 3px;
+  max-width: 500px;
+  padding: 2rem;
+}
+
+.modal-header {
+  display: flex;
+  justify-content: flex-end;
+}
+
+.modal-close-button {
+  font-size: 1.4rem;
+  font-weight: 700;
+  line-height: 1;
+  color: #000;
+  opacity: .3;
+  cursor: pointer;
+  border: none;
+}
+
+.input-first-name {
+  margin: auto;
+  width: 200px;
+  margin-bottom: 10px;
+}
+
+.input-last-name {
+  margin: auto;
+  width: 200px;
+  margin-bottom: 10px;
+}
+
+.input-email {
+  margin: auto;
+  width: 200px;
+  margin-bottom: 10px;
+}
+
+.input-phone {
+  margin: auto;
+  width: 200px;
+  margin-bottom: 10px;
+}
+
+.button-submit {
+  float: right;
+  margin: auto;
+  width: 210px;
+}
+
+.label-first-name {
+  margin: auto;
+}
+
+.label-last-name {
+  margin: auto;
+}
+
+.label-email {
+  margin: auto;
+}
+
+.label-phone {
+  margin: auto;
+}
+
+.form-spacer {
+  margin-bottom: 50px;
+}
+
+.modal-form {
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.first-name {
+  margin: 0 !important;
+}
+
+.last-name {
+  margin: 0 !important;
+}
+
+.email {
+  margin: 0 !important;
+}
+
+.phone {
+  margin: 0 !important;
+}
+
+.form-note {
+  font-size: 10px;
+  color: red;
+  margin: 0 imp !important;
+}

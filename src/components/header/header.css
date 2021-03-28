@@ -1,0 +1,11 @@
+.container-header {
+    max-width: 100%;
+    margin: 0;
+    height: auto;
+    float:left;
+}
+
+.img-header{
+    max-width: 100%;
+    height: auto;
+}
